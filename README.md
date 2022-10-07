@@ -64,8 +64,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>Hypersign</strong></span><br><br />
-            <a href="https://github.com/hypersign-protocol/networks/pull/10" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://raw.githubusercontent.com/elangrr/testnet_manuals/main/hypersign/hypersign.png"> </a>
+            <a href="https://explorer.kjnodes.com/hypersign/staking/hidvaloper1txukdtrwgaeu640uvue4v9xszgqg5z703mtt0q" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://user-images.githubusercontent.com/50621007/189590189-369a8e4d-97a6-4c1e-97cc-6a9586c3697e.png"> </a>
             </td>
             </td>
             <td width="130px" align="center">
