@@ -70,7 +70,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Nulink</strong></span><br><br />
-            <a href="https://github.com/elangrr/testnet_manuals/tree/main/nulink" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/elangrr/testnet_guide/tree/main/nulink" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://user-images.githubusercontent.com/34649601/190865847-3deb8670-26f7-4d24-a1a9-74b0b3abbe12.png"> </a>
             </td>
             <td width="130px" align="center">
