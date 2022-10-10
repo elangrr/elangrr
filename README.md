@@ -48,6 +48,11 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <a href=" " target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/elangrr/NodesBlocks/blob/main/chains_logo/point.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>Lambda</strong></span><br><br />
+            <a href="https://explorer.nodestake.top/lambda/staking/lambvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmz0ekr84" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://docs.lambda.im/lambda-logo.png">
+            </td>
         </tr>
     </tbody>
 </table>
@@ -78,6 +83,11 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <a href="https://github.com/elangrr/testnet_manuals/tree/main/subspace" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://user-images.githubusercontent.com/50621007/171398816-7e0432f4-4d39-42ad-a72e-cd8dd008028f.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>Empower</strong></span><br><br />
+            <a href="https://github.com/elangrr/testnet_guide/tree/main/empower" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://empower.explorers.guru/chains/empower.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -102,8 +112,8 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
-            <a href="https://discord.gg/gru6MuGPgP" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/NodesBlocks/NodesBlocks/blob/main/chains_logo/discord.png">
+            <a href="https://discord.gg/j4AcXqqr8P" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png">
             </td>
         </tr>
     </tbody>
