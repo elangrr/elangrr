@@ -108,7 +108,7 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <td width="130px" align="center">
             <span><strong>Website</strong></span><br><br />
             <a href="https://indonode.dev/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/elangrr/elangrr/blob/main/elang.png.gif">
+            <img height="40px" src="https://avatars.githubusercontent.com/u/34649601?v=4">
             </td>
             <td width="130px" align="center">
             <span><strong>Discord</strong></span><br><br />
