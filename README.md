@@ -106,7 +106,12 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
             <span><strong>Bifrost</strong></span><br><br />
             <a href="https://github.com/elangrr/testnet_guide/tree/main/bifrost" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://user-images.githubusercontent.com/34649601/196217517-3e2c030f-7af3-46f2-9042-81176ce9d143.png"> </a>
-            </td?
+            </td>
+            <td width="130px" align="center">
+            <span><strong>Nolus</strong></span><br><br />
+            <a href="https://explorer.indonode.dev/nolus/staking/nolusvaloper19ysqd82sy49rypvsmaf97vmst22h76a8p8mywp" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://user-images.githubusercontent.com/34649601/207593974-32d7cb69-eca9-4096-bc96-246fe7038c88.png"> </a>
+          </td>
         </tr>
     </tbody>
 </table>
