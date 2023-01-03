@@ -34,14 +34,9 @@ Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powere
     <tbody>
         <tr valign="top">
             <td width="130px" align="center">
-            <span><strong>ICW Chain</strong></span><br><br />
-            <a href="https://wallet.icwchain.com/consensus/consensusInfo?hash=d6629e44c520b21d4330b55e4c5cb1402224ff722b7b9765c438d51e1c7858fd" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://camo.githubusercontent.com/20f8532202cddcaabd8ae5a0c831f518c0821820e0cdb2cb786e80f9e30667e2/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6669742f632f3137362f3137362f302a466a653369523168315863766c527838">
-            </td>
-            <td width="130px" align="center">
-            <span><strong>Point</strong></span><br><br />
-            <a href="https://explorer.indonode.dev/point/staking/pointvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzfjdjyl" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/elangrr/explorer/blob/master/public/logos/point-logo.png">
+            <span><strong>Planq</strong></span><br><br />
+            <a href="https://explorer.indonode.dev/planq_7070-2/staking/plqvaloper1s4hcsgr3ce3s7yrrrqp5wgr2lag3uhmzvqzm9w" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://user-images.githubusercontent.com/34649601/209750989-677f97ae-6b49-4e19-8594-5846871a9aef.png">
             </td>
             <td width="130px" align="center">
             <span><strong>Lambda</strong></span><br><br />
