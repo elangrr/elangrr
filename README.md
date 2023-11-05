@@ -1,8 +1,7 @@
 <div align="center">
 <img
-  src="https://user-images.githubusercontent.com/34649601/224035065-63f2ec92-f804-4286-83a7-5a430dd1286c.png"
+  src="https://github.com/elangrr/elangrr/assets/34649601/a9271b02-5e80-48de-8de8-f85001c2aa8c"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
