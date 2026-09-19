@@ -1,67 +1,145 @@
 <div align="center">
-<img
-  src="https://github.com/elangrr/elangrr/assets/34649601/a9271b02-5e80-48de-8de8-f85001c2aa8c"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h4><b><i>V A L I D A T O R &nbsp; P R O F I L E &nbsp; I N T R O D U C T I O N</b></i></h4>
-    <img align="top" src="https://komarev.com/ghpvc/?username=elangrr&color=blueviolet"/>
-<br />
-<br />
-  </div>
+# Indonode
+
+### Web3 Infrastructure · Blockchain Validation · Cosmos Ecosystem
+
+**Independent validator & infrastructure provider building secure, reliable and highly monitored blockchain infrastructure.**
+
+[![Website](https://img.shields.io/badge/Website-indonode.net-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indonode.net)
+[![Email](https://img.shields.io/badge/Email-contact%40indonode.net-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@indonode.net)
+[![GitHub](https://img.shields.io/badge/GitHub-elangrr-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elangrr)
+
+<img src="https://komarev.com/ghpvc/?username=elangrr&style=flat-square&color=blueviolet&label=Profile+Views" />
 
 </div>
 
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <br />
-<h1>indonode.net</h1>
-<h5><i> &nbsp;I N D O N O D E&nbsp;&nbsp;</h5></i>
-<br />
-<br />
-Highly secured & monitored 24/7 non-custodial staking Web3 infrastructure powered by professional validators with best uptime and very low commissions rates for our delegators. We are validator mainly operate in Cosmos Ecosystem.
-  </div>
-</div>
+---
+
+## About
+
+**Indonode** is an independent Web3 infrastructure operation focused on blockchain validation, node operations, monitoring, and ecosystem support.
+
+We primarily operate within the **Cosmos ecosystem**, running validator and infrastructure services across mainnets and testnets while supporting emerging blockchain projects from testnet through mainnet.
+
+Our infrastructure is designed around:
+
+- ⚡ **High availability & uptime**
+- 🔐 **Security-first infrastructure**
+- 📡 **24/7 monitoring & alerting**
+- 🖥️ **Dedicated validator infrastructure**
+- 🌐 **RPC, API & blockchain infrastructure**
+- 🔄 **Automated deployment & maintenance**
+- 🛠️ **Testnet participation & network support**
+
+---
+
+## Validator & Infrastructure Operations
+
+### Blockchain Validation
+
+- Cosmos SDK / CometBFT networks
+- Validator node operations
+- Mainnet & testnet infrastructure
+- State sync & snapshot management
+- Cosmovisor upgrades
+- Secure key & validator management
+- Custom pruning configurations
+- Performance and resource optimization
+
+### Infrastructure
+
+- Linux server administration
+- Docker & containerized infrastructure
+- Nginx reverse proxy
+- SSL / TLS with Certbot
+- UFW firewall configuration
+- RPC / REST / gRPC endpoints
+- Automated deployment scripts
+- System monitoring & alerting
+
+### Monitoring
+
+Our infrastructure is continuously monitored using tools such as:
+
+- **Grafana**
+- **Tenderduty**
+- **Prometheus**
+- **Telegram / Discord alerting**
+- Custom monitoring scripts
+
+We monitor validator health, block production, missed blocks, peer connectivity, synchronization status, system resources, and service availability.
+
+---
+
+## Cosmos Ecosystem
+
+Currently focused on supporting and validating networks across the **Cosmos ecosystem and adjacent Web3 infrastructure**.
+
+Some of the ecosystems and projects we have worked with include:
+
+**Celestia · Dymension · Quicksilver · Initia · Band Protocol · Planq · Chain4Energy · BitCanna · Realio · Self Chain · Entangle · Quasar · Point Network · Source Protocol · Hypersign · Swisstronik · Axone · Artela · Shido · BlockX · Entrypoint**
+
+> Project participation may include validator operations, testnet validation, infrastructure deployment, community support, monitoring, and ecosystem contributions.
+
+---
+
+## Technology Stack
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h2><i>C O N T A C T &nbsp; U S </i></h2>
-  You can Send us an email to : contact@indonode.net <br />
-  <br />
-  </div>
+
+### Blockchain & Web3
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,python,nodejs,rust,cpp,solidity&perline=9" />
+
+### Infrastructure & Development
+
+<img src="https://skillicons.dev/icons?i=nginx,grafana,prometheus,github,ubuntu,postgres&perline=6" />
+
 </div>
 
-<table width="320px" align="center">
-    <tbody>
-        <tr valign="top">
-            <td width="130px" align="center">
-            <span><strong>Website</strong></span><br><br />
-            <a href="https://indonode.net/" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://avatars.githubusercontent.com/u/34649601?v=4">
-            </td>
-        </tr>
-    </tbody>
-</table>
+---
+
+## Infrastructure Philosophy
+
+> **Reliability is not a feature. It is the foundation.**
+
+We focus on building infrastructure that is:
+
+**Secure → Observable → Automated → Resilient → Maintainable**
+
+From validator deployment to monitoring and upgrades, our goal is to minimize operational risk while maintaining reliable network participation.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
-  </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&hide_border=true&theme=github_dark" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elangrr&theme=github-dark-blue&hide_border=true" />
+
 </div>
+
+---
+
+## Connect
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-    <img align="top" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&theme=nightowl"/>
+
+**Indonode**
+
+Web3 infrastructure · Validators · Cosmos Ecosystem
+
+[Website](https://indonode.net) · [GitHub](https://github.com/elangrr) · [Email](mailto:contact@indonode.net)
+
 <br />
-<br />
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=elangrr&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
-<br />
-<br />
-   <img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&theme=nightowl"/>
-  </div>
+
+<sub>Built and operated independently from Indonesia 🇮🇩</sub>
+
 </div>
-
-
-
-
