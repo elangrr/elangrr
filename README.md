@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:4f46e5&text=Indonode&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Validator%20%C2%B7%20Infrastructure%20%C2%B7%20Multi-chain&descAlignY=58&descSize=16" width="100%" />
 
-**Independent validator and blockchain infrastructure operator — built and run from Indonesia 🇮🇩**
+**Independent non-custodial validator since 2021 — high security, superior uptime, built and run from Indonesia 🇮🇩**
 
 [![Website](https://img.shields.io/badge/indonode.net-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indonode.net)
 [![Explorer](https://img.shields.io/badge/Explorer-18181B?style=for-the-badge&logo=databricks&logoColor=white)](https://explorer.indonode.net)
 [![Email](https://img.shields.io/badge/contact%40indonode.net-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@indonode.net)
+![Discord](https://img.shields.io/badge/flux__en-18181B?style=for-the-badge&logo=discord&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=elangrr&style=flat-square&color=4f46e5&label=Profile+Views" />
 
@@ -14,16 +15,22 @@
 
 ---
 
-## 👋 About
+## 👋 About Me
 
-**Indonode** runs validators and public infrastructure across a range of blockchain networks, with deep roots in the **Cosmos ecosystem**. We work with projects from their earliest testnets through mainnet launch, providing reliable validation, public endpoints, and hands-on support for node operators and communities — whatever chain they're built on.
+Hi, I'm the one-person team behind **Indonode**. Since 2021 I've been running non-custodial validators and public infrastructure across a range of blockchain networks, with deep roots in the **Cosmos ecosystem**.
+
+I like getting involved early: joining testnets, helping networks reach mainnet, and keeping the infrastructure running that node operators and communities depend on, whatever chain they're built on.
+
+- 🛡️ Independent, **non-custodial** validator since **2021**
+- 🔭 Maintainer of the **[Indonode Multi-chain Explorer](https://explorer.indonode.net)**
+- 📚 Node guides & documentation at **[indonode.net](https://indonode.net)**
 
 > **Reliability is not a feature. It is the foundation.**
-> Everything we run is built to be **Secure → Observable → Automated → Resilient → Maintainable.**
+> Everything I run is built to be **Secure → Observable → Automated → Resilient → Maintainable.**
 
 ---
 
-## 🛰️ What We Run
+## 🛰️ What I Run
 
 | Area | What it includes |
 |---|---|
@@ -34,7 +41,7 @@
 
 ---
 
-## 📡 How We Monitor
+## 📡 How I Monitor
 
 ```mermaid
 flowchart LR
@@ -46,11 +53,11 @@ flowchart LR
     A --> C[Telegram / Discord]
 ```
 
-Every node is watched around the clock for block signing, missed blocks, peer connectivity, sync status, system resources, and endpoint availability — so issues are caught before they become downtime.
+I watch every node around the clock for block signing, missed blocks, peer connectivity, sync status, system resources, and endpoint availability, so I catch issues before they turn into downtime.
 
 ---
 
-## 🌐 Networks We've Supported
+## 🌐 Networks I've Supported
 
 <div align="center">
 
@@ -92,7 +99,7 @@ Every node is watched around the clock for block signing, missed blocks, peer co
   </tr>
 </table>
 
-<sub>Participation includes mainnet and testnet validation, infrastructure deployment, monitoring, and community support.</sub>
+<sub>My work on these networks includes mainnet and testnet validation, infrastructure deployment, monitoring, and community support.</sub>
 
 </div>
 
@@ -131,13 +138,13 @@ Every node is watched around the clock for block signing, missed blocks, peer co
 
 ---
 
-## 🤝 Work With Us
+## 🤝 Work With Me
 
-Looking to **delegate**, need **reliable RPC endpoints**, or **launching a testnet** and want experienced validators on board? We'd love to hear from you.
+Want to **delegate** to a validator who keeps your keys yours, need **reliable RPC endpoints**, or **launching a testnet** and want an experienced operator on board? I'd love to hear from you.
 
 <div align="center">
 
-[**Website**](https://indonode.net) · [**Email**](mailto:contact@indonode.net) · [**Multi-chain Explorer**](https://explorer.indonode.net)
+[**Website**](https://indonode.net) · [**Email**](mailto:contact@indonode.net) · [**Multi-chain Explorer**](https://explorer.indonode.net) · **Discord:** `flux_en`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4f46e5,100:0f172a&section=footer" width="100%" />
 
