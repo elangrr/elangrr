@@ -1,145 +1,144 @@
 <div align="center">
 
-# Indonode
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:4f46e5&text=Indonode&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Validator%20%C2%B7%20Infrastructure%20%C2%B7%20Multi-chain&descAlignY=58&descSize=16" width="100%" />
 
-### Web3 Infrastructure · Blockchain Validation · Cosmos Ecosystem
+**Independent validator and blockchain infrastructure operator — built and run from Indonesia 🇮🇩**
 
-**Independent validator & infrastructure provider building secure, reliable and highly monitored blockchain infrastructure.**
+[![Website](https://img.shields.io/badge/indonode.net-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indonode.net)
+[![Explorer](https://img.shields.io/badge/Explorer-18181B?style=for-the-badge&logo=databricks&logoColor=white)](https://explorer.indonode.net)
+[![Email](https://img.shields.io/badge/contact%40indonode.net-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@indonode.net)
 
-[![Website](https://img.shields.io/badge/Website-indonode.net-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indonode.net)
-[![Email](https://img.shields.io/badge/Email-contact%40indonode.net-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@indonode.net)
-[![GitHub](https://img.shields.io/badge/GitHub-elangrr-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elangrr)
-
-<img src="https://komarev.com/ghpvc/?username=elangrr&style=flat-square&color=blueviolet&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=elangrr&style=flat-square&color=4f46e5&label=Profile+Views" />
 
 </div>
 
 ---
 
-## About
+## 👋 About
 
-**Indonode** is an independent Web3 infrastructure operation focused on blockchain validation, node operations, monitoring, and ecosystem support.
-
-We primarily operate within the **Cosmos ecosystem**, running validator and infrastructure services across mainnets and testnets while supporting emerging blockchain projects from testnet through mainnet.
-
-Our infrastructure is designed around:
-
-- ⚡ **High availability & uptime**
-- 🔐 **Security-first infrastructure**
-- 📡 **24/7 monitoring & alerting**
-- 🖥️ **Dedicated validator infrastructure**
-- 🌐 **RPC, API & blockchain infrastructure**
-- 🔄 **Automated deployment & maintenance**
-- 🛠️ **Testnet participation & network support**
-
----
-
-## Validator & Infrastructure Operations
-
-### Blockchain Validation
-
-- Cosmos SDK / CometBFT networks
-- Validator node operations
-- Mainnet & testnet infrastructure
-- State sync & snapshot management
-- Cosmovisor upgrades
-- Secure key & validator management
-- Custom pruning configurations
-- Performance and resource optimization
-
-### Infrastructure
-
-- Linux server administration
-- Docker & containerized infrastructure
-- Nginx reverse proxy
-- SSL / TLS with Certbot
-- UFW firewall configuration
-- RPC / REST / gRPC endpoints
-- Automated deployment scripts
-- System monitoring & alerting
-
-### Monitoring
-
-Our infrastructure is continuously monitored using tools such as:
-
-- **Grafana**
-- **Tenderduty**
-- **Prometheus**
-- **Telegram / Discord alerting**
-- Custom monitoring scripts
-
-We monitor validator health, block production, missed blocks, peer connectivity, synchronization status, system resources, and service availability.
-
----
-
-## Cosmos Ecosystem
-
-Currently focused on supporting and validating networks across the **Cosmos ecosystem and adjacent Web3 infrastructure**.
-
-Some of the ecosystems and projects we have worked with include:
-
-**Celestia · Dymension · Quicksilver · Initia · Band Protocol · Planq · Chain4Energy · BitCanna · Realio · Self Chain · Entangle · Quasar · Point Network · Source Protocol · Hypersign · Swisstronik · Axone · Artela · Shido · BlockX · Entrypoint**
-
-> Project participation may include validator operations, testnet validation, infrastructure deployment, community support, monitoring, and ecosystem contributions.
-
----
-
-## Technology Stack
-
-<div align="center">
-
-### Blockchain & Web3
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,bash,python,nodejs,rust,cpp,solidity&perline=9" />
-
-### Infrastructure & Development
-
-<img src="https://skillicons.dev/icons?i=nginx,grafana,prometheus,github,ubuntu,postgres&perline=6" />
-
-</div>
-
----
-
-## Infrastructure Philosophy
+**Indonode** runs validators and public infrastructure across a range of blockchain networks, with deep roots in the **Cosmos ecosystem**. We work with projects from their earliest testnets through mainnet launch, providing reliable validation, public endpoints, and hands-on support for node operators and communities — whatever chain they're built on.
 
 > **Reliability is not a feature. It is the foundation.**
-
-We focus on building infrastructure that is:
-
-**Secure → Observable → Automated → Resilient → Maintainable**
-
-From validator deployment to monitoring and upgrades, our goal is to minimize operational risk while maintaining reliable network participation.
+> Everything we run is built to be **Secure → Observable → Automated → Resilient → Maintainable.**
 
 ---
 
-## GitHub Statistics
+## 🛰️ What We Run
+
+| Area | What it includes |
+|---|---|
+| **Validation** | Mainnet & testnet validators across Cosmos SDK / CometBFT and other networks · secure key management · automated upgrades |
+| **Public infrastructure** | RPC & API endpoints · state sync · snapshots · custom pruning · multi-chain explorer |
+| **Server operations** | Hardened Linux · UFW firewalling · Nginx reverse proxy with TLS · Docker · automated deployment scripts |
+| **Monitoring & alerting** | Prometheus · Grafana · Tenderduty · Telegram & Discord alerts · custom health checks |
+
+---
+
+## 📡 How We Monitor
+
+```mermaid
+flowchart LR
+    N[Validator & RPC nodes] -->|metrics| P[Prometheus]
+    N -->|signing status| T[Tenderduty]
+    P --> G[Grafana dashboards]
+    P --> A[Alert rules]
+    T --> A
+    A --> C[Telegram / Discord]
+```
+
+Every node is watched around the clock for block signing, missed blocks, peer connectivity, sync status, system resources, and endpoint availability — so issues are caught before they become downtime.
+
+---
+
+## 🌐 Networks We've Supported
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<table>
+  <tr>
+    <td align="center">Artela</td>
+    <td align="center">Axone</td>
+    <td align="center">Band Protocol</td>
+  </tr>
+  <tr>
+    <td align="center">BitCanna</td>
+    <td align="center">BlockX</td>
+    <td align="center">Celestia</td>
+  </tr>
+  <tr>
+    <td align="center">Chain4Energy</td>
+    <td align="center">Dymension</td>
+    <td align="center">Entangle</td>
+  </tr>
+  <tr>
+    <td align="center">Entrypoint</td>
+    <td align="center">Hypersign</td>
+    <td align="center">Initia</td>
+  </tr>
+  <tr>
+    <td align="center">Planq</td>
+    <td align="center">Point Network</td>
+    <td align="center">Quasar</td>
+  </tr>
+  <tr>
+    <td align="center">Quicksilver</td>
+    <td align="center">Realio</td>
+    <td align="center">Self Chain</td>
+  </tr>
+  <tr>
+    <td align="center">Shido</td>
+    <td align="center">Source Protocol</td>
+    <td align="center">Swisstronik</td>
+  </tr>
+</table>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&hide_border=true&theme=github_dark" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elangrr&theme=github-dark-blue&hide_border=true" />
+<sub>Participation includes mainnet and testnet validation, infrastructure deployment, monitoring, and community support.</sub>
 
 </div>
 
 ---
 
-## Connect
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Indonode**
+**Operations & Infrastructure**
 
-Web3 infrastructure · Validators · Cosmos Ecosystem
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash,git,github&perline=7" />
 
-[Website](https://indonode.net) · [GitHub](https://github.com/elangrr) · [Email](mailto:contact@indonode.net)
+**Monitoring**
 
-<br />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2" />
 
-<sub>Built and operated independently from Indonesia 🇮🇩</sub>
+**Languages & Data**
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,rust,cpp,solidity,postgres&perline=6" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&hide_border=true&theme=github_dark" />
+
+<img src="https://streak-stats.demolab.com/?user=elangrr&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Work With Us
+
+Looking to **delegate**, need **reliable RPC endpoints**, or **launching a testnet** and want experienced validators on board? We'd love to hear from you.
+
+<div align="center">
+
+[**Website**](https://indonode.net) · [**Email**](mailto:contact@indonode.net) · [**Multi-chain Explorer**](https://explorer.indonode.net)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4f46e5,100:0f172a&section=footer" width="100%" />
 
 </div>
