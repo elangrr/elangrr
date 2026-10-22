@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:4f46e5&text=Indonode&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=Validator%20%C2%B7%20Infrastructure%20%C2%B7%20Multi-chain&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=F2C12E&text=Indonode&fontColor=18181B&fontSize=60&fontAlignY=36&desc=Validator%20%C2%B7%20Infrastructure%20%C2%B7%20Multi-chain&descAlignY=58&descSize=16" width="100%" />
 
 **Independent non-custodial validator since 2021 — high security, superior uptime, built and run from Indonesia 🇮🇩**
 
-[![Website](https://img.shields.io/badge/indonode.net-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://indonode.net)
-[![Explorer](https://img.shields.io/badge/Explorer-18181B?style=for-the-badge&logo=databricks&logoColor=white)](https://explorer.indonode.net)
-[![Email](https://img.shields.io/badge/contact%40indonode.net-18181B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@indonode.net)
-![Discord](https://img.shields.io/badge/flux__en-18181B?style=for-the-badge&logo=discord&logoColor=white)
+[![Website](https://img.shields.io/badge/indonode.net-F2C12E?style=for-the-badge&logo=googlechrome&logoColor=18181B)](https://indonode.net)
+[![Explorer](https://img.shields.io/badge/Explorer-F2C12E?style=for-the-badge&logo=databricks&logoColor=18181B)](https://explorer.indonode.net)
+[![Monitoring](https://img.shields.io/badge/Monitoring-F2C12E?style=for-the-badge&logo=grafana&logoColor=18181B)](https://monitoring.indonode.net)
+[![Email](https://img.shields.io/badge/contact%40indonode.net-F2C12E?style=for-the-badge&logo=gmail&logoColor=18181B)](mailto:contact@indonode.net)
+![Discord](https://img.shields.io/badge/flux__en-F2C12E?style=for-the-badge&logo=discord&logoColor=18181B)
 
-<img src="https://komarev.com/ghpvc/?username=elangrr&style=flat-square&color=4f46e5&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=elangrr&style=flat-square&color=F2C12E&label=Profile+Views" />
 
 </div>
 
@@ -23,6 +24,7 @@ I like getting involved early: joining testnets, helping networks reach mainnet,
 
 - 🛡️ Independent, **non-custodial** validator since **2021**
 - 🔭 Maintainer of the **[Indonode Multi-chain Explorer](https://explorer.indonode.net)**
+- 📈 Live node & endpoint status at **[monitoring.indonode.net](https://monitoring.indonode.net)**
 - 📚 Node guides & documentation at **[indonode.net](https://indonode.net)**
 
 > **Reliability is not a feature. It is the foundation.**
@@ -51,9 +53,14 @@ flowchart LR
     P --> A[Alert rules]
     T --> A
     A --> C[Telegram / Discord]
+
+    classDef gold fill:#F2C12E,stroke:#18181B,stroke-width:1px,color:#18181B
+    class N,P,T,G,A,C gold
 ```
 
 I watch every node around the clock for block signing, missed blocks, peer connectivity, sync status, system resources, and endpoint availability, so I catch issues before they turn into downtime.
+
+📈 **See it live:** [monitoring.indonode.net](https://monitoring.indonode.net)
 
 ---
 
@@ -129,10 +136,10 @@ I watch every node around the clock for block signing, missed blocks, peer conne
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=elangrr&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=F2C12E&icon_color=F2C12E&ring_color=F2C12E&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elangrr&layout=compact&hide_border=true&bg_color=0D1117&title_color=F2C12E&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com/?user=elangrr&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=elangrr&hide_border=true&background=0D1117&stroke=30363D&ring=F2C12E&fire=F2C12E&currStreakNum=F2C12E&sideNums=FFFFFF&currStreakLabel=F2C12E&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -144,8 +151,8 @@ Want to **delegate** to a validator who keeps your keys yours, need **reliable R
 
 <div align="center">
 
-[**Website**](https://indonode.net) · [**Email**](mailto:contact@indonode.net) · [**Multi-chain Explorer**](https://explorer.indonode.net) · **Discord:** `flux_en`
+[**Website**](https://indonode.net) · [**Email**](mailto:contact@indonode.net) · [**Multi-chain Explorer**](https://explorer.indonode.net) · [**Monitoring**](https://monitoring.indonode.net) · **Discord:** `flux_en`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4f46e5,100:0f172a&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F2C12E&section=footer" width="100%" />
 
 </div>
